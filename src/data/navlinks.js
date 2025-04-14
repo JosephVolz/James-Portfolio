@@ -11,10 +11,10 @@ const Navlinks = [
     title: "Skills",
     link: "skills",
   },
-  {
-    title: "Projects",
-    link: "projects",
-  },
+  // {
+  //   title: "Projects",
+  //   link: "projects",
+  // },
   {
     title: "Experience",
     link: "experience",
